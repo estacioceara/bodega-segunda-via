@@ -25,10 +25,9 @@ function mostrarProdutos(produtos) {
 function criarLinhaProduto(produto) {
     const tr = document.createElement("tr");
     tr.innerHTML = `
-        <td>${escapeHTML(produto.nome)}</td>
-        <td>${escapeHTML(produto.descricao)}</td>
+        <td>${produto.descricao}</td>
         <td>
-            <img src="${escapeHTML(produto.foto)}" class="img-thumbnail" width="80" alt="${escapeHTML(produto.nome)}">
+            <img src="${produto.foto}" class="img-thumbnail" width="80" alt="${produto.nome}">
         </td>
         <td>${produto.quantidade}</td>
         <td>${Number(produto.preco).toFixed(2)}</td>
@@ -45,14 +44,5 @@ function criarLinhaProduto(produto) {
     `;
     return tr;
 }
-
-function escapeHTML(text) {
-    const div = document.createElement("div");
-    div.textContent = text;
-    return div.innerHTML;
-}
-
-
-
 
 document.addEventListener("DOMContentLoaded", carregarProdutos);
