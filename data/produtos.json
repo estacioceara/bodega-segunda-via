@@ -3,7 +3,7 @@
     "id": 1,
     "nome": "Whisky Johnnie Walker Black Label",
     "descricao": "Whisky escocês premium envelhecido por 12 anos, sabor suave e marcante.",
-    "foto": "https://www.johnniewalker.com/content/dam/jw/brand-assets/core-range/black-label/black-label-bottle.png",
+    "foto": "https://m.media-amazon.com/images/I/61S5PedMY6L.jpg",
     "quantidade": 10,
     "preco": 189.90
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "nome": "Cerveja Heineken Long Neck",
     "descricao": "Cerveja puro malte holandesa, refrescante e com sabor equilibrado.",
-    "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_652236-MLU72730908820_112023-F.webp",
+    "foto": "https://www.imigrantesbebidas.com.br/bebida/images/products/full/222-cerveja-heineken-long-neck-330ml.jpg",
     "quantidade": 50,
     "preco": 7.50
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "nome": "Vinho Tinto Miolo Seleção",
     "descricao": "Vinho brasileiro tinto seco, elaborado com uvas Cabernet Sauvignon e Merlot.",
-    "foto": "https://www.miolo.com.br/wp-content/uploads/2020/05/miolo-selecao-cabernet-sauvignon-merlot.png",
+    "foto": "https://cdn.dooca.store/278/products/mxcfl3of2pfo11w7za0vpeuqnwsdmh00ukjv.jpg?v=1728046948",
     "quantidade": 20,
     "preco": 42.90
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "nome": "Vodka Absolut",
     "descricao": "Vodka sueca premium, destilada a partir de trigo de inverno.",
-    "foto": "https://media.istockphoto.com/id/177411399/photo/absolut-vodka-on-white-background.jpg",
+    "foto": "https://phygital-files.mercafacil.com/catalogo/uploads/produto/vodka_destilada_absolut_1l_54f969b0-071b-4be2-b158-838cdec23072.jpg",
     "quantidade": 15,
     "preco": 89.90
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "nome": "Gin Tanqueray",
     "descricao": "Gin inglês clássico, com notas de zimbro e especiarias.",
-    "foto": "https://images.pexels.com/photos/9765434/pexels-photo-9765434.jpeg",
+    "foto": "https://m.media-amazon.com/images/I/51D1lvkoBwL.jpg",
     "quantidade": 12,
     "preco": 119.90
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "nome": "Cachaça 51",
     "descricao": "Cachaça tradicional brasileira, ideal para caipirinhas.",
-    "foto": "https://www.webbar.com.br/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/a/cachaca-aguardente-51-garrafa-200ml-6-unidades.jpg",
+    "foto": "https://lojaciamuller.vtexassets.com/arquivos/ids/155624/7896002100441-1.png?v=638744404064300000",
     "quantidade": 30,
     "preco": 16.90
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "nome": "Espumante Chandon Brut",
     "descricao": "Espumante brasileiro seco, com perlage fina e sabor refrescante.",
-    "foto": "https://www.chandon.com.br/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/h/chandon_brut_750ml.png",
+    "foto": "https://cdn.awsli.com.br/300x300/91/91186/produto/243540359/chandon-sem-caixa-vmizoyk36j.jpg",
     "quantidade": 8,
     "preco": 79.90
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "nome": "Rum Bacardi Carta Blanca",
     "descricao": "Rum branco caribenho, perfeito para coquetéis.",
-    "foto": "https://www.bacardi.com/wp-content/uploads/2020/07/Bacardi-Carta-Blanca-White-Rum.png",
+    "foto": "https://images.tcdn.com.br/img/img_prod/584235/rum_bacardi_carta_blanca_garrafa_980ml_438983646_1_dbbcca2b7f42d5fc047d1db5578bad5b_20250317122741.jpg",
     "quantidade": 18,
     "preco": 54.90
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "nome": "Tequila José Cuervo Silver",
     "descricao": "Tequila mexicana clássica, sabor suave e marcante.",
-    "foto": "https://cdn.dooca.store/1097/products/tequila-jose-cuervo-silver-750ml_640x640+fill_ffffff.png",
+    "foto": "https://acdn-us.mitiendanube.com/stores/002/084/139/products/imagem_2023-05-13_1948598171-e7ec60f400cc3c191016840184253901-1024-1024.png",
     "quantidade": 14,
     "preco": 99.90
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "nome": "Licor Baileys",
     "descricao": "Licor irlandês cremoso, mistura de whisky e creme de leite.",
-    "foto": "https://www.baileys.com/content/dam/baileys/products/original/baileys-original-irish-cream-bottle.png",
+    "foto": "https://www.imigrantesbebidas.com.br/bebida/images/products/full/7252-licor-baileys-750-ml.jpg",
     "quantidade": 10,
     "preco": 84.90
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "nome": "Cerveja Budweiser Lata",
     "descricao": "Cerveja americana lager, sabor leve e refrescante.",
-    "foto": "https://www.budweiser.com.br/images/budweiser-lata-350ml.png",
+    "foto": "https://prezunic.vtexassets.com/arquivos/ids/192919-800-auto?v=638369665146630000&width=800&height=auto&aspect=true",
     "quantidade": 60,
     "preco": 5.50
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "nome": "Vinho Branco Casillero del Diablo",
     "descricao": "Vinho chileno branco, fresco e frutado.",
-    "foto": "https://cdn.casillerodeldiablo.com/wp-content/uploads/2020/06/sauvignon-blanc.png",
+    "foto": "https://phygital-files.mercafacil.com/good-bom/uploads/produto/vinho_branco_chileno_casillero_del_diablo_belight_750ml_a6b168c3-c369-4c80-a684-1f04062d6d13.jpeg",
     "quantidade": 15,
     "preco": 49.90
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "nome": "Cerveja Stella Artois Long Neck",
     "descricao": "Cerveja belga premium, sabor marcante e equilibrado.",
-    "foto": "https://www.stellaartois.com.br/images/stella-artois-long-neck.png",
+    "foto": "https://choppbrahmaexpress.vtexassets.com/arquivos/ids/157766/16a14bdf0f30570aece573010894803b_cerveja-stella-artois-puro-malte-330ml-long-neck_lett_1.jpg?v=638842063481070000",
     "quantidade": 40,
     "preco": 8.90
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "nome": "Vinho Rosé Mateus",
     "descricao": "Vinho rosé português, leve e refrescante.",
-    "foto": "https://mateusrose.com/wp-content/uploads/2021/04/mateus-rose.png",
+    "foto": "https://diawine.agilecdn.com.br/18363_1.jpg",
     "quantidade": 10,
     "preco": 39.90
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "nome": "Aperol",
     "descricao": "Licor italiano, base para o famoso drink Spritz.",
-    "foto": "https://www.aperol.com/images/aperol-bottle.png",
+    "foto": "https://casalisboa.com.br/wp-content/uploads/2020/07/Aperitivo-Aperol-750Ml.jpg",
     "quantidade": 9,
     "preco": 69.90
   }
