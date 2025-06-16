@@ -25,6 +25,7 @@ function mostrarProdutos(produtos) {
 function criarLinhaProduto(produto) {
     const tr = document.createElement("tr");
     tr.innerHTML = `
+        <td>${produto.nome} </td>
         <td>${produto.descricao}</td>
         <td>
             <img src="${produto.foto}" class="img-thumbnail" width="80" alt="${produto.nome}">
